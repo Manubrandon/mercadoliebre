@@ -26,14 +26,13 @@ body {
     padding: 8px;
 }
 
-.ml-top{
-    margin-top: 15%;
 
+.ml-fix{
+    margin-top: 6%;
 }
 
-
 .flex {
-    display: flex;
+    display: flex !important;
     flex-wrap: wrap;
 }
 
@@ -42,6 +41,10 @@ body {
 }
 .no-wrap {
     flex-wrap: nowrap;
+}
+
+.flex-row{
+    flex-direction: row;
 }
 
 .justify-center {

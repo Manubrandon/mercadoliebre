@@ -46,9 +46,14 @@
     padding: 15px;
 }
 
+.footer-cube{
+    padding: 16px;
+    border: 1 px white;
+}
+
 .product-wrapper {
     border: 1px solid #ebebeb;
-    box-shadow: none;
+    box-shadow: 0px 0px 10px rgb(100 100 100);
     padding: 10px;
     z-index: 0;
     background-color: white;
@@ -78,7 +83,6 @@
     position: absolute;
     right: 20px;
     top: -15px;
-    transition: width 2s, height 2s, transform 2s
 }
 
 .product-delivery-icon:hover{
@@ -119,8 +123,8 @@
     width: 50px;
 }
 
-.position-header{
-    position: fixed;
+
+.position-header-form{
     width: 100%;
     top: 0;
     z-index: 100;
