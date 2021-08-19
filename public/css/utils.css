@@ -79,3 +79,9 @@ body {
     
 }
 
+input:required,
+textarea:required{
+    color: red;
+}
+
+

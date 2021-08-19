@@ -29,15 +29,3 @@
     transform: rotate(360deg);
 }
 
-
-/*@media(min-width: 768px){
-    .product-wrapper{
-        border: 1px solid #ebebeb;
-        box-shadow: none;
-    }
-
-    .product-delivery-icon{
-        transition:transform cubic-bezier(0.4, 0, 1, 1) 500ms;
-    }
-}
-*/
