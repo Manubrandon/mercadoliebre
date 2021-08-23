@@ -3,6 +3,7 @@
 body {
     font-family: "Roboto";
     font-size: 12px;
+    background-color: #ebebeb;
 }
 
 .text-title {
@@ -48,6 +49,10 @@ body {
 }
 .ml-green-text {
     color: #39b54a;
+}
+
+.ml-white-bg{
+    background-color: white;
 }
 
 .ml-yellow-bg {
